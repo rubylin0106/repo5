@@ -1,7 +1,7 @@
 library(tidyverse)
 library(dplyr)
-
-# Homework 1
+J Dickens
+# Homework one
 
 # 1
 # Write a function that will find the sum of the natural log, the common log and a 
